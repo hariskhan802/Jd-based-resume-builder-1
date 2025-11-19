@@ -1,0 +1,39 @@
+{
+  "name": "Muhammad Haris",
+  "jobTitle": "Senior Full Stack Engineer",
+  "contact": {
+    "email": "m.haris4561@gmail.com",
+    "phone": "+92 344 0259952",
+    "address": "H#206 Zamanabad Karachi Pakistan",
+    "linkedin": "https://www.linkedin.com/in/muhammadharis802",
+    "github": "https://github.com/hariskhan802",
+    "portfolio": "https://haris-portfolio-five.vercel.app/"
+  },
+  "summary": "Senior Full-Stack Engineer with 9+ years building scalable SaaS products. Strong expertise in TypeScript, Node.js (NestJS), GraphQL, React.js, PostgreSQL, Redis, RabbitMQ, and AWS. Proven experience designing high-throughput transaction ingestion pipelines, configurable rule engines, real-time alerting dashboards, and case-management workflows for compliance teams.",
+  "work_experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "Kingdom Vision",
+      "start_date": "Mar 2017",
+      "end_date": "Apr 2019",
+      "responsibilities": [
+        "Improved B2B applications with real-time analytics.",
+        "Developed React Native mobile apps.",
+        "Integrated Twilio APIs.",
+        "Provided scalable architecture consulting.",
+        "Enhanced deployments using Jenkins and Docker."
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": ["JavaScript", "TypeScript", "PHP", "SQL"],
+    "frontend": ["React", "Angular", "Vue.js", "Next.js", "Nuxt.js", "JQuery", "AJAX", "HTML5", "CSS3", "Bootstrap", "Tailwind", "Redux", "Webpack", "Vite"],
+    "backend": ["Node.js", "Express.js", "NestJS", "Laravel", "Codeigniter", "GraphQL", "RESTful APIs", "gRPC", "SOAP", "OAuth", "WebSockets"],
+    "databases": ["MySQL", "PostgreSQL", "SQL Server", "MongoDB", "Redis", "DynamoDB", "Firebase", "Elasticsearch"],
+    "cloud_devops": ["AWS", "Azure", "Google Cloud Platform", "Docker", "Kubernetes", "GitHub Actions", "CI/CD Pipelines", "Serverless Architectures", "Microservices", "Distributed Systems", "Cloud Migrations"],
+    "ai": ["OpenAI API", "Generative AI Integration"],
+    "payment_and_communication": ["Stripe", "Twilio", "PayPal", "Authorize.net", "Square", "Firebase Cloud Messaging"],
+    "cms": ["WordPress"]
+  },
+  "languages": ["English"]
+}
