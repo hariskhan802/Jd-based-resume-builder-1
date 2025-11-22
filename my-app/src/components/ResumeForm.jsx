@@ -52,7 +52,7 @@ export default function ResumeForm({setResumeData = ()=>{} }) {
 
   const generateResume = async () => {
     setLoading(true);
-    setResumeData("")
+    // setResumeData("")
     try {
       const res = await axios.post("/api/generate-resume", { jobDescription: jobDesc });
       setResumeData(res.data.resume);
